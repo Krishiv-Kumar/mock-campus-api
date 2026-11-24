@@ -5,7 +5,7 @@
 **Student Portal Architecture Demo** is a high-performance, mobile-responsive, dark-themed web dashboard designed to showcase modern full-stack development practices. It features a streamlined UI/UX tailored for data visualization, predictive analytics, and academic management simulation based on a B.Tech Artificial Intelligence and Data Science curriculum.
 
 ## 🚀 Live Demo
-**[View the Live Application Here]** *(Add your GitHub Pages URL here once generated)*
+**[View the Live Application Here](https://krishiv-kumar.github.io/mock-campus-api/)**
 
 *Note for Recruiters: Use the provided mock credentials on the login screen to explore the fully functional dashboard using a simulated dataset.*
 
